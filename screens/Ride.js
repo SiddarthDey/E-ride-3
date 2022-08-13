@@ -13,8 +13,8 @@ import * as Permissions from "expo-permissions";
 import { BarCodeScanner } from "expo-barcode-scanner";
 //bgImage=require("backgroun2.png");
 //const bgImage = "../assets/background2.png";
-//const bgImage = require("background2.png");
-const bgImage = require("../assets/background2.png");
+const bgImage = require("background2.png");
+//const bgImage = require("../assets/background2.png");
 const appIcon = require("../assets/appIcon.png");
 
 export default class RideScreen extends Component {
